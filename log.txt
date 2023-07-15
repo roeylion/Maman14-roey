@@ -1,0 +1,8 @@
+after declarations
+macro start: mcro , macro end: endmcro
+.entry ADD
+-printing to file regular line: .entry ADD
+
+ADD: add 4,@r1
+-printing to file regular line: ADD: add 4,@r1
+Line exceeded maximum dataLength: DEC: .string "abcdefghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
