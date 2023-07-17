@@ -6,7 +6,7 @@
 #include "helpers.h"
 #include "first_pass.h"
 
-
+/*hello;j;lj*/
 bool assemble(string sourceName);
 int main(int argc, char* argv[]){
 command *cmd;
